@@ -23,9 +23,6 @@ tmp/**/*
 local.properties
 .settings/
 .loadpath
-# Recommended for Maven based projects 
-.project
-.classpath
 
 # External tool builders
 .externalToolBuilders/
